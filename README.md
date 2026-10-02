@@ -48,3 +48,53 @@ Very Hard
 For each minute the user spends on an exercise, there is a 5-point penalty to their score. If the exercise has appeared in actual interviews, there is a 10% bonus. Use a button to calculate the total score and then display the score using an output label. 
 
 Program3.cs:
+Commercial Catering Contract Calculator (Windows Forms)
+
+Overview & Business Scenario
+Engineered a C# Windows Forms desktop application designed to calculate finalized pricing for enterprise catering contracts. The application processes multi-tiered discounting logic using parallel arrays, dynamic combo box selections, range-matching search algorithms, and input validation routines.
+
+Core Technical Concepts Demonstrated
+
+Parallel Array Processing: Structured synchronized data lookup across separate arrays to manage catering discount rates and baseline business contract pricing.
+
+Range-Matching Algorithms: Developed C# for loop logic to evaluate variable contract lengths (in years) against custom tiered discount brackets.
+
+GUI Component Management: Built an interactive Windows Forms interface utilizing ComboBox controls (SelectedIndex property evaluation) and dynamic message prompts.
+
+Input Validation & Exception Prevention: Implemented int.TryParse logic to ensure numeric integrity for contract duration entries while preventing runtime errors.
+
+Data Structures & Lookup Mapping
+
+Catering Discount Tiers (Parallel Arrays):
+
+Hill Catering Co.: 30% Discount
+
+Food in a Flash: 20% Discount
+
+Sally’s Sandwiches: 12% Discount
+
+Perry’s Pierogis: 5% Discount
+
+Business Baseline Pricing (Parallel Arrays):
+
+John’s Books: $500
+
+Office Supplies: $489
+
+J.B. Car Parts: $412
+
+Gevalia Coffee: $350
+
+Ceylon Tea: $325
+
+My Footwear: $279
+
+Contract Duration Incentives (Range-Matching):
+
+0 to 1 Years: $0 Additional Savings
+
+2 to 4 Years: $30 Additional Savings
+
+5 to 7 Years: $40 Additional Savings
+
+8+ Years: $50 Additional Savings
