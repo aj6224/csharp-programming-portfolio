@@ -18,6 +18,19 @@ Staff assigned (int)
 Senior Citizen? (0 or 1) (int)
 All work at Smiths requires a fixed $100 consultation fee. The labor charge is $75 per hour per staff member assigned to the job. The cost of parts is added to the total cost. Senior citizens receive a discount on all services performed at Smiths.
 
+<img width="861" height="455" alt="Screenshot 2026-11-17 143536" src="https://github.com/user-attachments/assets/81437220-6a00-4c4e-a2b3-4b98102ce129" />
+<img width="860" height="461" alt="Screenshot 2026-11-17 143546" src="https://github.com/user-attachments/assets/3f5ad3cc-5e3f-408a-a099-4e2071970304" />
+<img width="863" height="460" alt="Screenshot 2026-11-17 143555" src="https://github.com/user-attachments/assets/9a9d166c-e700-4b13-82d9-c21c93c450be" />
+<img width="863" height="460" alt="Screenshot 2026-11-17 143606" src="https://github.com/user-attachments/assets/98e804ff-1e82-4a60-a6ea-031c0711c04e" />
+<img width="865" height="458" alt="Screenshot 2026-11-17 143613" src="https://github.com/user-attachments/assets/dcf3b25b-f0ef-4251-8c05-b4ac0cf2d968" />
+<img width="860" height="461" alt="Screenshot 2026-11-17 143620" src="https://github.com/user-attachments/assets/7b2feedd-44ae-4959-b3a2-9a0480c9583e" />
+<img width="860" height="461" alt="Screenshot 2026-11-17 143628" src="https://github.com/user-attachments/assets/27167072-e189-442f-adf2-beb541a738cf" />
+
+
+
+
+
+
 Program2.cs:
 Congratulations, you just landed a job at Code Quest, a startup company that provides coding practice problems that help users prepare for interviews. The website awards points to users upon completing programming exercises to allow them to assess their performance. For your first task, you have been asked to create a Windows Forms App that will allow users to track the number of points they earned from a given exercise.
 
