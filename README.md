@@ -47,6 +47,18 @@ Very Hard
 
 For each minute the user spends on an exercise, there is a 5-point penalty to their score. If the exercise has appeared in actual interviews, there is a 10% bonus. Use a button to calculate the total score and then display the score using an output label. 
 
+<img width="223" height="253" alt="Screenshot 2026-11-17 142951" src="https://github.com/user-attachments/assets/75edeabf-3ddf-4263-92f2-1b2871789937" />
+<img width="223" height="253" alt="Screenshot 2026-11-17 143011" src="https://github.com/user-attachments/assets/d0b8cc4b-0166-4cc2-929a-d3e6759031eb" />
+<img width="256" height="245" alt="Screenshot 2026-11-17 143037" src="https://github.com/user-attachments/assets/916e1276-b98a-4e49-82c2-a233660842cb" />
+
+
+
+
+
+
+
+
+
 Program3.cs:
 Commercial Catering Contract Calculator (Windows Forms)
 
@@ -98,3 +110,13 @@ Contract Duration Incentives (Range-Matching):
 5 to 7 Years: $40 Additional Savings
 
 8+ Years: $50 Additional Savings
+
+
+
+
+<img width="323" height="391" alt="Screenshot 2026-11-17 143208" src="https://github.com/user-attachments/assets/3fea2042-4a25-4615-8484-f586a8408700" />
+<img width="329" height="398" alt="Screenshot 2026-11-17 143226" src="https://github.com/user-attachments/assets/ba8983d3-11bd-4469-ab82-819f05693a19" />
+<img width="320" height="390" alt="Screenshot 2026-11-17 143232" src="https://github.com/user-attachments/assets/9a860be3-5eb8-4959-81e5-c910e3817c68" />
+<img width="320" height="394" alt="Screenshot 2026-11-17 143242" src="https://github.com/user-attachments/assets/ec7970de-0d7d-4fa4-910d-c7e6180534e5" />
+<img width="321" height="394" alt="Screenshot 2026-11-17 143253" src="https://github.com/user-attachments/assets/f0a2c6d9-cdee-431a-a35e-d0182be57eb9" />
+
